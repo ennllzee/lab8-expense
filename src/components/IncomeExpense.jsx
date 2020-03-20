@@ -1,4 +1,5 @@
 import React from 'react'
+import Firebase from '../firebase/firebase'
 
 export default function IncomeExpense(props) {
 
